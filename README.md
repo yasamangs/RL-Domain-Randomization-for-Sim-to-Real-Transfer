@@ -1,6 +1,6 @@
 # Domain Randomization in Robotic Control
 
-##### by Francesco Giuseppe Gillio, in collaboration with Yasaman Golshan and Sara Asadi.
+##### by Francesco Giuseppe Gillio, Yasaman Golshan and Sara Asadi.
 ###### Department of Control and Computer Science
 ###### Polytechnic University of Turin
 
